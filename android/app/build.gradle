@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.local_notification"
+    namespace = "com.example.alarm_clock"
     compileSdk = 35
     ndkVersion = "26.1.10909125"
 
